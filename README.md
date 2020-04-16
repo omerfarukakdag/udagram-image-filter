@@ -1,6 +1,6 @@
 # Udagram Image Filtering Microservice
 
-This is the second assignment for the [Udacity Cloud Developer Nanodegree course](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990).
+This is the second assignment for the [Udacity Cloud Developer Nanodegree](https://www.udacity.com/course/cloud-developer-nanodegree--nd9990) course.
 
 It is a Node-Express application which runs a simple script to process images, and is deployed using AWS Elastic Beanstalk.
 
